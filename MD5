@@ -1,14 +1,14 @@
-3661407cf5463e19b386e361b3974295 *DESCRIPTION
+d66bab3330788d0af5c005fd3c27a50f *DESCRIPTION
 474bd5498d3429c3f9546492f6c4d433 *LICENSE
 2d61eed7dd0a1ec31b5fa8cbf648201f *NAMESPACE
-f2953ef7fda722858de2e0d213196f74 *NEWS.md
+cfdad8d5dd77c76d56211eb7b4fd815a *NEWS.md
 5a9ecabe0a793ba3baf399d9a8b1d6c3 *R/data.R
 b72f565fc3edaac6afe7f0722d4b10d3 *R/end_round.R
 003ef236a57ce7232934dae4572ecd8a *R/inspect_space.R
-9969dc2d5a757e5d98e38e56ec45bb2a *R/show_board.R
+baa8e3d9ec96ed7b53c2a8ed91d51d10 *R/show_board.R
 b89e52808c26c47c78b26fefaad9443e *R/start_round.R
-58c4d87fab31efb557189844365b7389 *R/take_a_step.R
-9205e7e27a85496a4aa6d7c6e5c4fc7e *README.md
+4cc7b1800c37a3cdea8be6b5690ccc90 *R/take_a_step.R
+34dec32a4818da42bf2c247edc72b0fe *README.md
 0da8c3a18dd7f0eb9b7cacf5017f1cfe *data/alley.rda
 da051cbf1300f6da4fb2da8be31b4afc *data/node_locations.rda
 03dfd49f6961fe1f945a09a511215d04 *data/roads.rda
@@ -23,4 +23,5 @@ c88ac12fea533569e8c43d54842014a3 *man/start_round.Rd
 4cfe841bdbc3dc3c16e3a87f18626ac7 *man/take_a_step.Rd
 2b03946e01784ba2435e7212ad985751 *man/trim_possibilities.Rd
 07d92611e9027fe56c001a3cff7b8692 *tests/testthat.R
-0d46d1f1fded9490c0015f46c5ecd079 *tests/testthat/test_whitechapel.R
+9f02886118346073665433beebf48ed7 *tests/testthat/Rplots.pdf
+33e1604be0a92f2e8a21f41052d00184 *tests/testthat/test_whitechapel.R
